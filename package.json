@@ -1,0 +1,17 @@
+{
+  "name": "tjcarskadon.me-metalsmith-package",
+  "version": "1.0.0",
+  "description": "package file for tjcarskadon.me",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "author": "Tj Carskadon",
+  "license": "ISC",
+  "devDependencies": {
+    "handlebars": "^4.0.5",
+    "metalsmith-collections": "^0.7.0",
+    "metalsmith-permalinks": "^0.5.0",
+    "metalsmith-templates": "^0.7.0"
+  }
+}
